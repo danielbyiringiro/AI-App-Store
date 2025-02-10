@@ -1,0 +1,14 @@
+[package]
+name = "permission_manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = { version = "0.17" }
+rusqlite = "0.29.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+clap = { version = "4.4", features = ["derive"] }
+lazy_static = "1.4.0"
+anyhow = "1.0"
+dirs = "4.0.0"

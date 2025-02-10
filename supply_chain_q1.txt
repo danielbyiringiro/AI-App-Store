@@ -1,0 +1,27 @@
+[competitive strategy]
+
+- efficiency: we will deliver a reliable web app with minimal downtime.
+- this will be achieved by building strong partnerships with 
+   - financial data providers for real-time and accirate insights.
+   - payment services to ensure secure and seamless transactions. 
+   - cloud infrastructure providers for scalability and high availability.
+
+[value proposition]
+
+- Accessible Investments: We simplify investment in Rwanda’s stock market through an AI-powered platform.
+
+- Personalized Guidance: Our AI model explains financial risks and recommends investments based on users’ goals.
+
+- Bilingual & Inclusive: Available in Kinyarwanda and English, with speech-based interaction for ease of use.
+
+- Automation & Convenience: Users can automate trades and receive insights tailored to their needs.
+
+[why is this strategy ideal]
+
+- Market Differentiation: No other platform currently integrates AI-driven financial insights tailored for Rwanda.
+
+- Reliability & Trust: Partnerships with established financial and cloud providers enhance credibility.
+
+- Scalability: A cloud-based system ensures the platform grows with user demand.
+
+- User-Centric Approach: Personalized investment guidance and multilingual support improve engagement and accessibility.
